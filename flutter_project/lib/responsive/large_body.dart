@@ -1,5 +1,6 @@
-import 'package:first_lesson/name_box.dart';
 import 'package:flutter/material.dart';
+
+import '../name_box.dart';
 
 class LargeBody extends StatefulWidget {
   @override

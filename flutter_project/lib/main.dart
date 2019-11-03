@@ -1,8 +1,9 @@
-import 'package:first_lesson/large_body.dart';
-import 'package:first_lesson/medium_body.dart';
-import 'package:first_lesson/responsive.dart';
-import 'package:first_lesson/small_body.dart';
 import 'package:flutter/material.dart';
+
+import 'responsive/large_body.dart';
+import 'responsive/medium_body.dart';
+import 'responsive/small_body.dart';
+import 'responsive/util/responsive.dart';
 
 void main() => runApp(MyApp());
 

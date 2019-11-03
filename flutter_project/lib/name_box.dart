@@ -1,5 +1,6 @@
-import 'package:first_lesson/names.dart';
 import 'package:flutter/material.dart';
+
+import 'names.dart';
 
 class NameBox extends StatefulWidget {
   const NameBox(

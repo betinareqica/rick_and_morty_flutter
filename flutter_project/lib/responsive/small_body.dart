@@ -1,4 +1,4 @@
-import 'package:first_lesson/name_box.dart';
+import '../name_box.dart';
 import 'package:flutter/material.dart';
 
 class SmallBody extends StatefulWidget {
